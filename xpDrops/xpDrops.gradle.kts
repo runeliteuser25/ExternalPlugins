@@ -26,8 +26,8 @@
 
 version = "6.0.0"
 
-project.extra["PluginName"] = "Anonymizer"
-project.extra["PluginDescription"] = "Anonymizes your rsn and others."
+project.extra["PluginName"] = "xpDrops"
+project.extra["PluginDescription"] = "2011 style xp drops."
 
 tasks {
     jar {
